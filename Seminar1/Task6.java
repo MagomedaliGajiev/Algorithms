@@ -1,3 +1,4 @@
+package Seminar1;
 import java.util.Date;
 
 public class Task6 {
